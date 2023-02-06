@@ -200,7 +200,7 @@ stanice na zadanou kartu a do předepsaného oboru adres?
 předepsané nastavení. Ověřte přihlášením uživatele!
   
 </details>
-<details> <summary><h3>
+<details>
   <summary><h3>16. Exchange server</h3></summary>
   
 - **popište funkce, instalaci a konfiguraci Exchange Serveru 2013**
