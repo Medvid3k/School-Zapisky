@@ -261,7 +261,7 @@ záznamů.
 </details> 
 
 <details> 
-	<summary><h3> 21. Nftables</h3></summary>
+	<summary><h3><style "#ff0000"> 21. Nftables</style></h3></summary>
 	
 - Základy firewallů (typy filtrů), NAT, PAT, struktura nftables, význam tabulek, řetězců, hooků,
 syntaxe pravidel nftables
