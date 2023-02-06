@@ -1,7 +1,10 @@
-
 ## <a href="./..">🔌 Počítačové Sítě (SIT) - Maturitní otázky</a>
+
+<h4>✔ - Otázky ze kterých se zkouší</h4>
+<h4>❌ - Otázky které se zatím nezkouší</h4>
+
 <details>
-  <summary><h3 style="color:Tomato;">1. Vrstvové modely a základní dělení sítí</h3></summary>
+  <summary><h3>1. Vrstvové modely a základní dělení sítí</h3></summary>
 
 - **vrstvové modely**
   - proč používáme vrstvové modely
