@@ -200,7 +200,7 @@ stanice na zadanou kartu a do předepsaného oboru adres?
 předepsané nastavení. Ověřte přihlášením uživatele!
   
 </details>
-<details>
+<details> <summary><h3>
   <summary><h3>16. Exchange server</h3></summary>
   
 - **popište funkce, instalaci a konfiguraci Exchange Serveru 2013**
@@ -214,7 +214,9 @@ předepsané nastavení. Ověřte přihlášením uživatele!
   
 </details>
 
-### 17. IIS
+<details> 
+	<summary><h3> 17. IIS</h3></summary>
+	
 - webové služby Microsoft Serveru
 - nastavení přístupu k webovým stránkám
   - propojení na AD pro ověření
@@ -222,54 +224,95 @@ předepsané nastavení. Ověřte přihlášením uživatele!
 - konfigurace pro aktivní webové stránky
 - protokoly pro webové služby – http, https
 - nastavení SSL/TLS
-### 18. Konfigurace síťových rozhraní (statické, dynamické, resolvery, statické routování,
-diagnostika sítě)
+
+</details> 
+
+<details> 
+	<summary><h3> 18. Konfigurace síťových rozhraní (statické, dynamické, resolvery, statické routování,
+diagnostika sítě)</h3></summary>
+
 - Konfigurační soubory síťových rozhraní, jmenné služby, nástroje pro diagnostiku síťového
 připojení, nástroje pro routování, rozdělení routovacích protokolů
 - Nakonfigurujte 3 virtuální PC s dist. Debian, z nichž jedno PC bude sloužit jako router mezi
 dvěma ostatními, kde bude mít každý ze zbývajících PC IP adresy z jiného rozsahu.
-### 19. DHCP server
+
+</details> 
+
+<details> 
+	<summary><h3> 19. DHCP server </h3></summary>
+	
 - Popište komunikaci klient vs. DHCP server, DHCP relay, včetně konfiguračních souborů.
 - Nakonfigurujte 2 virtuální PC s dist. Debian, 1. PC jako DHCP server, druhé PC jako klient, oba na
 virtuální vnitřní síti.
 - Klient bude schopen získat konfigurační údaje z DHCP serveru
 - Popište změny v konfiguračních souborech.
-### 20. DNS server
+
+</details> 
+
+<details>
+	<summary><h3> 20. DNS server</h3></summary>
+	
 - Topologie systému DNS a jeho částí (typy serverů), struktura zón, zónových souborů a DNS
 záznamů.
 - Nainstalujte na jedno virtuální PC s dist. Debian DNS server BIND
 - Nakonfigurujte zónové soubory pro místní doménu s příponou ".local"
 - Zprovozněte druhé PC, které bude jako klient využívat služby tohoto DNS serveru.
-### 21. Nftables
+
+</details> 
+
+<details> 
+	<summary><h3> 21. Nftables</h3></summary>
+	
 - Základy firewallů (typy filtrů), NAT, PAT, struktura nftables, význam tabulek, řetězců, hooků,
 syntaxe pravidel nftables
 - Nakonfigurujte na virtuálním PC s distribucí Debian jednoduchý firewall, který bude sloužit
 pouze pro toto PC- Nakonfigurujte komunikaci na protokolech icmp, tcp, udp.
-### 22. Samba
+
+</details> 
+
+<details> 
+	<summary><h3> 22. Samba</h3></summary>
+
 - Základy protokolů SMB/CIFS (SMB, NetBIOS), role samby, funkce daemonů, struktura
 nainstalované samby (konfigurační soubory, nástroje), základní části hlavního konfiguračního
 souboru.
 - Nainstalujte na virtuální PC s dist. Debian balík samba
 - Proveďte nasdílení veřejné složky a domovských složek uživatelů pro pracovní skupinu pod Win
 - Na druhém virtuálním PC s OS Win 10 otestujte funkci samby.
-### 23. Web server Apache
+
+</details> 
+
+<details> 
+	<summary><h3> 23. Web server Apache</h3></summary>
+
 - Základy webu, protokoly http, https, php, struktura balíku Apache a konfiguračních souborů.
 - Nainstalujte na virtuálním PC balík Apache2, php
 - Zprovozněte web s podporou TLS a vytvořte jednoduchou stránku typu "Ahoj světe!" s použitím
 html a php.
 - Na druhém virtuálním PC s OS Win 10 předveďte funkčnost stránky a popište změny provedené
 v konfiguračních souborech.
-### 24. Mailový server
+
+</details> 
+
+<details> 
+	<summary><h3> 24. Mailový server</h3></summary>
+
 - Základní pojmy (MTA, MDA, MUA)
 - Protokoly (SMTP, POP3, IMAP)
 - Konfigurační soubory Exim4, Dovecot, Squirrelmail (nebo Roundcube) a Spamassassin
 - Nakonfigurujte mailový server na virtuálním PC s dist. Debian
 - Nastavte poštovní server s využitím zmíněných MTA, MDA a antispamovou kontrolou.
-### 25. Zabezpečení dat přenášených přes internet, základy šifrování
+
+</details> 
+
+<details> 
+	<summary><h3> 25. Zabezpečení dat přenášených přes internet, základy šifrování</h3></summary>
+
 - Základy šifrování – symetrická vs. asymetrická šifra, hash
 - Princip elektronického podpisu, rozšíření S/MIME u elektronické pošty
 - Handshake protokolů SSL a TLS
 
+</details> 
 
 <p align="right">
   <a href="./..">Go Back</a>
