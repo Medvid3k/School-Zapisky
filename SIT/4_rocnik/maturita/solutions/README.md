@@ -1,10 +1,10 @@
 ## <a href="./..">🔌 Počítačové Sítě (SIT) - Maturitní otázky</a>
 
-<h4>✔ - Otázky ze kterých se zkouší</h4>
-<h4>❌ - Otázky které se zatím nezkouší</h4>
+<h4>✔ Otázky ze kterých se zkouší</h4>
+<h4>❌ Otázky které se zatím nezkouší</h4>
 
 <details>
-  <summary><h3>1. Vrstvové modely a základní dělení sítí</h3></summary>
+  <summary><h3>❌ 1. Vrstvové modely a základní dělení sítí</h3></summary>
 
 - **vrstvové modely**
   - proč používáme vrstvové modely
@@ -18,7 +18,7 @@
   
 </details>
 <details>
-  <summary><h3>2. Strukturovaná kabeláž</h3></summary>
+  <summary><h3>❌ 2. Strukturovaná kabeláž</h3></summary>
 
 - **vysvětlete pojem strukturovaná kabeláž, její složení**
 - **zásady pro plánování strukt. kabeláže**
@@ -30,7 +30,7 @@
   
 </details>
 <details>
-  <summary><h3>3. Ethernet</h3></summary>
+  <summary><h3>❌ 3. Ethernet</h3></summary>
   
 - **uveďte, jaké vrstvy pokrývá Ethernet v modelu ISO/OSI a v modelu TCP/IP**
 - **detailně popište ethernetový rámec**
@@ -43,7 +43,7 @@
   
 </details>
 <details>
-  <summary><h3>4. Bezdrátový přenos</h3></summary>
+  <summary><h3>❌ 4. Bezdrátový přenos</h3></summary>
   
 - **základy bezdrátové komunikace**
 - **vysvětlete pojmy wifi, bluetooth**
@@ -57,7 +57,7 @@
   
 </details>
 <details>
-  <summary><h3>5. Síťová vrstva</h3></summary>
+  <summary><h3>❌ 5. Síťová vrstva</h3></summary>
   
 - **vysvětlete funkci síťové vrstvy, vyjmenujte a popište služby síťové vrstvy**
 - **detailně popište PDU používané v síťové vrstvě**
@@ -68,7 +68,7 @@
   
 </details>
 <details>
-  <summary><h3>6. Kyberbezpečnost – kybernetické útoky</h3></summary>
+  <summary><h3>❌ 6. Kyberbezpečnost – kybernetické útoky</h3></summary>
   
 - **rozdělte kybernetické útoky do jednotlivých kategorií a popište je**
   - útoky na síťovou infrastrukturu a serverové služby
@@ -79,7 +79,7 @@
   
 </details>
 <details>
-  <summary><h3>7. Směrování – směrovací protokol RIP</h3></summary>
+  <summary><h3>❌ 7. Směrování – směrovací protokol RIP</h3></summary>
   
 - **zařazení protokolu RIP dle velikosti sítě, principu činnosti**
 - **verze RIP protokolu a rozdíly mezi nimi**
@@ -89,7 +89,7 @@
   
 </details>
 <details>
-  <summary><h3>8. Směrování – směrovací protokol OSPF a BGP</h3></summary>
+  <summary><h3>❌ 8. Směrování – směrovací protokol OSPF a BGP</h3></summary>
   
 - **Zařazení protokolu OSPF dle velikosti sítě, princip činnosti**
 - **Popis algoritmu použitého v protokolu OSPF**
@@ -100,7 +100,7 @@
   
 </details>
 <details>
-  <summary><h3>9. Transportní vrstva</h3></summary>
+  <summary><h3>❌ 9. Transportní vrstva</h3></summary>
   
 - **vysvětlete význam transportní vrstvy, vyjmenujte a popište služby transportní vrstvy**
 - **adresace v transportní vrstvě, uveďte příklad**
@@ -109,7 +109,7 @@
   
 </details>
 <details>
-  <summary><h3>10. Windows Server</h3></summary>
+  <summary><h3>✔ 10. Windows Server</h3></summary>
   
 - **struktura Windows Serveru**
   - Popište strukturu serveru. Vysvětlete funkci HAL, jádra, služeb, GUI.o Co je třeba uvážit před počátkem instalace?
@@ -121,7 +121,7 @@
   
 </details>
 <details>
-  <summary><h3>11. Autentifikace a důvěra v systémech AD</h3></summary>
+  <summary><h3>❌ 11. Autentifikace a důvěra v systémech AD</h3></summary>
   
 - **Jaký je rozdíl mezi autentifikací a autorizací?**
 - **Jak autentifikace probíhá v systémech Windows bez domény?**
@@ -133,7 +133,7 @@
   
 </details>
 <details>
-  <summary><h3>12. Active Directory</h3></summary>
+  <summary><h3>✔ 12. Active Directory</h3></summary>
   
 - **struktura Active Directory**
   - Co je Active Directory a k čemu slouží?
@@ -154,7 +154,7 @@ význam jednotlivých nastavení
   
 </details>
 <details>
-  <summary><h3>13. Instalace a konfigurace DNS Serveru na platformě Windows Serveru</h3></summary>
+  <summary><h3>✔ 13. Instalace a konfigurace DNS Serveru na platformě Windows Serveru</h3></summary>
   
 - **kořenové servery**
   - Jak se instaluje a konfiguruje DNS server?
@@ -170,7 +170,7 @@ význam jednotlivých nastavení
   
 </details>
 <details>
-  <summary><h3>14. Instalace a konfigurace DHCP Serveru na platformě Windows Serveru</h3></summary>
+  <summary><h3>✔ 14. Instalace a konfigurace DHCP Serveru na platformě Windows Serveru</h3></summary>
   
 - **konfigurace oboru adres**
   - Co je DHCP server, k čemu slouží?
@@ -188,7 +188,7 @@ stanice na zadanou kartu a do předepsaného oboru adres?
   
 </details>
 <details>
-  <summary><h3>15. Politiky GPO</h3></summary>
+  <summary><h3>✔ 15. Politiky GPO</h3></summary>
   
 - **vysvětlení pojmu, místo uložení**
   - Co jsou to GPO? Kam se ukládají?
@@ -204,7 +204,7 @@ předepsané nastavení. Ověřte přihlášením uživatele!
   
 </details>
 <details>
-  <summary><h3>16. Exchange server</h3></summary>
+  <summary><h3>✔ 16. Exchange server</h3></summary>
   
 - **popište funkce, instalaci a konfiguraci Exchange Serveru 2013**
 - **konfigurace poštovních schránek***
@@ -218,7 +218,7 @@ předepsané nastavení. Ověřte přihlášením uživatele!
 </details>
 
 <details> 
-	<summary><h3> 17. IIS</h3></summary>
+	<summary><h3>✔  17. IIS</h3></summary>
 	
 - webové služby Microsoft Serveru
 - nastavení přístupu k webovým stránkám
@@ -231,7 +231,7 @@ předepsané nastavení. Ověřte přihlášením uživatele!
 </details> 
 
 <details> 
-	<summary><h3> 18. Konfigurace síťových rozhraní (statické, dynamické, resolvery, statické routování,
+	<summary><h3>✔  18. Konfigurace síťových rozhraní (statické, dynamické, resolvery, statické routování,
 diagnostika sítě)</h3></summary>
 
 - Konfigurační soubory síťových rozhraní, jmenné služby, nástroje pro diagnostiku síťového
@@ -242,7 +242,7 @@ dvěma ostatními, kde bude mít každý ze zbývajících PC IP adresy z jinéh
 </details> 
 
 <details> 
-	<summary><h3> 19. DHCP server </h3></summary>
+	<summary><h3>✔  19. DHCP server </h3></summary>
 	
 - Popište komunikaci klient vs. DHCP server, DHCP relay, včetně konfiguračních souborů.
 - Nakonfigurujte 2 virtuální PC s dist. Debian, 1. PC jako DHCP server, druhé PC jako klient, oba na
@@ -253,7 +253,7 @@ virtuální vnitřní síti.
 </details> 
 
 <details>
-	<summary><h3> 20. DNS server</h3></summary>
+	<summary><h3>✔  20. DNS server</h3></summary>
 	
 - Topologie systému DNS a jeho částí (typy serverů), struktura zón, zónových souborů a DNS
 záznamů.
@@ -264,7 +264,7 @@ záznamů.
 </details> 
 
 <details> 
-	<summary><h3>21. Nftables</h3></summary>
+	<summary><h3>❌ 21. Nftables</h3></summary>
 	
 - Základy firewallů (typy filtrů), NAT, PAT, struktura nftables, význam tabulek, řetězců, hooků,
 syntaxe pravidel nftables
@@ -274,7 +274,7 @@ pouze pro toto PC- Nakonfigurujte komunikaci na protokolech icmp, tcp, udp.
 </details> 
 
 <details> 
-	<summary><h3> 22. Samba</h3></summary>
+	<summary><h3>✔  22. Samba</h3></summary>
 
 - Základy protokolů SMB/CIFS (SMB, NetBIOS), role samby, funkce daemonů, struktura
 nainstalované samby (konfigurační soubory, nástroje), základní části hlavního konfiguračního
@@ -286,7 +286,7 @@ souboru.
 </details> 
 
 <details> 
-	<summary><h3> 23. Web server Apache</h3></summary>
+	<summary><h3>✔  23. Web server Apache</h3></summary>
 
 - Základy webu, protokoly http, https, php, struktura balíku Apache a konfiguračních souborů.
 - Nainstalujte na virtuálním PC balík Apache2, php
@@ -298,7 +298,7 @@ v konfiguračních souborech.
 </details> 
 
 <details> 
-	<summary><h3> 24. Mailový server</h3></summary>
+	<summary><h3>✔  24. Mailový server</h3></summary>
 
 - Základní pojmy (MTA, MDA, MUA)
 - Protokoly (SMTP, POP3, IMAP)
@@ -309,7 +309,7 @@ v konfiguračních souborech.
 </details> 
 
 <details> 
-	<summary><h3> 25. Zabezpečení dat přenášených přes internet, základy šifrování</h3></summary>
+	<summary><h3>❌  25. Zabezpečení dat přenášených přes internet, základy šifrování</h3></summary>
 
 - Základy šifrování – symetrická vs. asymetrická šifra, hash
 - Princip elektronického podpisu, rozšíření S/MIME u elektronické pošty
