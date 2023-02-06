@@ -1,7 +1,7 @@
 
 ## <a href="./..">🔌 Počítačové Sítě (SIT) - Maturitní otázky</a>
 <details>
-  <summary><h3>1. Vrstvové modely a základní dělení sítí</h3></summary>
+  <summary><h3 style="color: #ff0000">1. Vrstvové modely a základní dělení sítí</h3></summary>
 
 - **vrstvové modely**
   - proč používáme vrstvové modely
@@ -15,7 +15,7 @@
   
 </details>
 <details>
-  <summary><h3>2. Strukturovaná kabeláž</h3></summary>
+  <summary><h3 style="color: #ff0000">2. Strukturovaná kabeláž</h3></summary>
 
 - **vysvětlete pojem strukturovaná kabeláž, její složení**
 - **zásady pro plánování strukt. kabeláže**
@@ -27,7 +27,7 @@
   
 </details>
 <details>
-  <summary><h3>3. Ethernet</h3></summary>
+  <summary><h3 style="color: #ff0000">3. Ethernet</h3></summary>
   
 - **uveďte, jaké vrstvy pokrývá Ethernet v modelu ISO/OSI a v modelu TCP/IP**
 - **detailně popište ethernetový rámec**
@@ -40,7 +40,7 @@
   
 </details>
 <details>
-  <summary><h3>4. Bezdrátový přenos</h3></summary>
+  <summary><h3 style="color: #ff0000">4. Bezdrátový přenos</h3></summary>
   
 - **základy bezdrátové komunikace**
 - **vysvětlete pojmy wifi, bluetooth**
@@ -54,7 +54,7 @@
   
 </details>
 <details>
-  <summary><h3>5. Síťová vrstva</h3></summary>
+  <summary><h3 style="color: #ff0000">5. Síťová vrstva</h3></summary>
   
 - **vysvětlete funkci síťové vrstvy, vyjmenujte a popište služby síťové vrstvy**
 - **detailně popište PDU používané v síťové vrstvě**
@@ -65,7 +65,7 @@
   
 </details>
 <details>
-  <summary><h3>6. Kyberbezpečnost – kybernetické útoky</h3></summary>
+  <summary><h3 style="color: #ff0000">6. Kyberbezpečnost – kybernetické útoky</h3></summary>
   
 - **rozdělte kybernetické útoky do jednotlivých kategorií a popište je**
   - útoky na síťovou infrastrukturu a serverové služby
@@ -76,7 +76,7 @@
   
 </details>
 <details>
-  <summary><h3>7. Směrování – směrovací protokol RIP</h3></summary>
+  <summary><h3 style="color: #ff0000">7. Směrování – směrovací protokol RIP</h3></summary>
   
 - **zařazení protokolu RIP dle velikosti sítě, principu činnosti**
 - **verze RIP protokolu a rozdíly mezi nimi**
@@ -86,7 +86,7 @@
   
 </details>
 <details>
-  <summary><h3>8. Směrování – směrovací protokol OSPF a BGP</h3></summary>
+  <summary><h3 style="color: #ff0000">8. Směrování – směrovací protokol OSPF a BGP</h3></summary>
   
 - **Zařazení protokolu OSPF dle velikosti sítě, princip činnosti**
 - **Popis algoritmu použitého v protokolu OSPF**
@@ -97,7 +97,7 @@
   
 </details>
 <details>
-  <summary><h3>9. Transportní vrstva</h3></summary>
+  <summary><h3 style="color: #ff0000">9. Transportní vrstva</h3></summary>
   
 - **vysvětlete význam transportní vrstvy, vyjmenujte a popište služby transportní vrstvy**
 - **adresace v transportní vrstvě, uveďte příklad**
@@ -106,7 +106,7 @@
   
 </details>
 <details>
-  <summary><h3>10. Windows Server</h3></summary>
+  <summary><h3 style="color: #ff0000">10. Windows Server</h3></summary>
   
 - **struktura Windows Serveru**
   - Popište strukturu serveru. Vysvětlete funkci HAL, jádra, služeb, GUI.o Co je třeba uvážit před počátkem instalace?
@@ -118,7 +118,7 @@
   
 </details>
 <details>
-  <summary><h3>11. Autentifikace a důvěra v systémech AD</h3></summary>
+  <summary><h3 style="color: #ff0000">11. Autentifikace a důvěra v systémech AD</h3></summary>
   
 - **Jaký je rozdíl mezi autentifikací a autorizací?**
 - **Jak autentifikace probíhá v systémech Windows bez domény?**
@@ -261,7 +261,7 @@ záznamů.
 </details> 
 
 <details> 
-	<summary><h3><style="#ff0000"> 21. Nftables</style></h3></summary>
+	<summary><h3 style="color: #ff0000">21. Nftables</h3></summary>
 	
 - Základy firewallů (typy filtrů), NAT, PAT, struktura nftables, význam tabulek, řetězců, hooků,
 syntaxe pravidel nftables
