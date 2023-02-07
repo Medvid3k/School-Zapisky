@@ -1,7 +1,8 @@
 ## [💯 Číslicová Technika (CIT)](./..)
 ### Základní registry
-- PORTx - výstup
-- DDRx - výrody nastavuje na I/O
+- PORTx - výstup (výstupní registr – určuje výstupní hodnotu pinu nastaveného jako výstup, zapíná nebo
+vypíná pull-up rezistory u pinů nastavených na vstup.)
+- DDRx - vývody nastavuje na I/O (data direction register – nastavuje příslušný port na vstup nebo na výstup)
 
 ### LED Diody Switch
 ```
@@ -29,6 +30,29 @@ int main(void)
     }
 }
 ```
+
+### LED
+- **Vf** - minimální napětí, které musíme připojit pro funkci LED
+- **If** - minimální proud, která je deklarovaný vyrobcem LED
+- **Vr** - maximální napětí v závěrném směru
+- **Ir** - maximální proud, který bude protékat, když ji zapojáme v závěrném směru
+- ***Vbat*** - napětí baterie
+
+#### Jaký rezostor zvolit?
+```
+Vf = 2V
+If = 30mA
+Vbat = 5V
+------------
+Vlef = Vbat - Vf
+Vled = 5 - 2 = 3V
+## Ohmův zákon : R = Vled/If ##
+R = 3/0,03 = 100 Ω
+             -----
+```
+- pomocí různých řad Rezistorů si můžeme dočíst jakou vybrat
+
+
 <p align="right">
   <a href="./..">Go Back</a>
 </p>
